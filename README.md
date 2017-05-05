@@ -1,18 +1,3 @@
-# vue-project
+# Vue
+> 基于Vue.js 2.x系列 + Element UI 的后台管理系统解决方案
 
-> vue+vuex+vue-router
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
