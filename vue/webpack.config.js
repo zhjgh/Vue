@@ -8,7 +8,7 @@ module.exports = {
     //入口文件输入配置
     output: {
         path: path.resolve(__dirname, './dist'),
-        publicPath: '../dist/',
+        publicPath: '/dist/',
         filename: 'build.js'
     },
 
