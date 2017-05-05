@@ -1,0 +1,2 @@
+webpackJsonp([4],{110:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={name:"about",data:function(){return{msg:"关于我们"}}}},81:function(e,t,n){var s=n(30)(n(110),n(97),null,null);e.exports=s.exports},97:function(e,t){e.exports={render:function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about"},[n("h1",[e._v(e._s(e.msg))])])},staticRenderFns:[]}}});
+//# sourceMappingURL=4.build.js.map
